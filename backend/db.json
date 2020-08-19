@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Moto G8 Play",
+            "price": 1299.00
+        },
+        {
+            "id": 2,
+            "name": "Notebook Lenovo i7 9700k",
+            "price": 6500.89
+        },
+        {
+            "id": 3,
+            "name": "Sansung S10",
+            "price": "2000"
+        },
+        {
+            "id": 4,
+            "name": "Chamequinho 100folhas",
+            "price": "6.77"
+        }
+    ]
+}
